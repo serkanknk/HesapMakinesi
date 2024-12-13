@@ -1,0 +1,10 @@
+C:\Users\SERKAN\Desktop\projelerim\c#\Hesap makinası\hesapMakinası\hesapMakinası\bin\Debug\hesapMakinası.exe.config
+C:\Users\SERKAN\Desktop\projelerim\c#\Hesap makinası\hesapMakinası\hesapMakinası\bin\Debug\hesapMakinası.exe
+C:\Users\SERKAN\Desktop\projelerim\c#\Hesap makinası\hesapMakinası\hesapMakinası\bin\Debug\hesapMakinası.pdb
+C:\Users\SERKAN\Desktop\projelerim\c#\Hesap makinası\hesapMakinası\hesapMakinası\obj\Debug\hesapMakinası.csproj.AssemblyReference.cache
+C:\Users\SERKAN\Desktop\projelerim\c#\Hesap makinası\hesapMakinası\hesapMakinası\obj\Debug\hesapMakinası.Form1.resources
+C:\Users\SERKAN\Desktop\projelerim\c#\Hesap makinası\hesapMakinası\hesapMakinası\obj\Debug\hesapMakinası.Properties.Resources.resources
+C:\Users\SERKAN\Desktop\projelerim\c#\Hesap makinası\hesapMakinası\hesapMakinası\obj\Debug\hesapMakinası.csproj.GenerateResource.cache
+C:\Users\SERKAN\Desktop\projelerim\c#\Hesap makinası\hesapMakinası\hesapMakinası\obj\Debug\hesapMakinası.csproj.CoreCompileInputs.cache
+C:\Users\SERKAN\Desktop\projelerim\c#\Hesap makinası\hesapMakinası\hesapMakinası\obj\Debug\hesapMakinası.exe
+C:\Users\SERKAN\Desktop\projelerim\c#\Hesap makinası\hesapMakinası\hesapMakinası\obj\Debug\hesapMakinası.pdb
